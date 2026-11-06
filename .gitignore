@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.groq_key
+cookies/
+cookies_flow/
+cookies_taaft/
+cookies_vids/
+acc1.json
+acc1_saved.json
+outputs*/
+*.png
+debug_*.txt
+result*.json
